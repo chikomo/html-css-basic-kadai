@@ -86,3 +86,7 @@ a:link {
 a:visited {
     color: rgb(245,178,168);
 }
+
+a:hover {
+    color: rgb(245, 178, 168);
+}
